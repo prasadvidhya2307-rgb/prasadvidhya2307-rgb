@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Vidhya Prasad  <br><br>🎓 First-year Engineering student at Narula Institute of Technology  <br>💻 Passionate about programming and problem-solving  <br>🧠 Strong foundation in C, Java, and Python  <br>📚 Currently learning Data Structures and Algorithms in Java  <br><br>🌱 Always eager to learn new technologies and improve my coding skills 
+Hi 👋 I'm Vidhya Prasad  <br><br>🎓 Second-year Engineering student at Narula Institute of Technology  <br>💻 Passionate about programming and problem-solving  <br>🧠 Strong foundation in C, Java, and Python  <br>📚 Currently learning Data Structures and Algorithms in Java  <br><br>🌱 Always eager to learn new technologies and improve my coding skills 
 
 
 ## 🌐 Socials:
